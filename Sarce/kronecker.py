@@ -3,7 +3,7 @@
 # 20.06.2020
 # Diego Sarceño
 
-
+# estoy cambiando esta línea de prueba
 
 # 1. Se define la funcion del producto de kronecker
 def pKronecker(m,n,p,q,M_1,M_2):
