@@ -1,8 +1,0 @@
-hola otra prueba
-<<<<<<< HEAD
-sarce y yo estamos modificando esta cosa ojala funcione divB=0
-12164
-=======
-
-somos bien chingones
->>>>>>> 19bd00df9a043e8c8147fc95a2b780ff6fe0db1d
