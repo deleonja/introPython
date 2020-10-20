@@ -3,6 +3,8 @@
 # 20.06.2020
 # Diego Sarceño
 
+
+
 # 1. Se define la funcion del producto de kronecker
 def pKronecker(m,n,p,q,M_1,M_2):
     '''
@@ -59,5 +61,17 @@ def pKronecker(m,n,p,q,M_1,M_2):
     return
 
 '''
+# 2. Se definen las matrices        EL USUARIO SOLO INGRESA LAS MATRICES
+Matriz_1 = [[1,1],[1,1]] # Matriz de mxn
+Matriz_2 = [[1,0],[0,1]] # Matriz de pxq
 
+    # 2.1. Se definen las dimensiones de las matrices
+m = len(Matriz_1)
+n = len(Matriz_1[0])
+p = len(Matriz_2)
+q = len(Matriz_2[0])
+
+
+# 3. Se valúa la función
+pKronecker(n=n,m=m,p=p,q=q,M_1=Matriz_1, M_2=Matriz_2)
 '''

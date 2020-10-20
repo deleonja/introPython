@@ -39,7 +39,6 @@ print("Suma3 = %3.1f" % suma)
 # Suma3 = 25.9
 # 
 #
-
 # Recordatorio: 
 # Se accede a la shell interactiva de python colocando en la 
 # terminal 'python3'
